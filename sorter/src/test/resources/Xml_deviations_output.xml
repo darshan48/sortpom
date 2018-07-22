@@ -6,7 +6,7 @@
   <properties>
     <function><![CDATA[function same(a,b) 
 { return a == b; }]]></function>
-    <text>text</text>
+    <text>this is tesxt</text>
   </properties>
   <!-- Comment -->
 </project>
